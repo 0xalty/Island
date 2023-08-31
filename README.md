@@ -1,5 +1,4 @@
 # Islands　
- -https://img.shields.io/badge/any_text-you_like-blue
 We make a marketplace where everyone becomes a curator and curation becomes a work of art.
 
 ### Issue
