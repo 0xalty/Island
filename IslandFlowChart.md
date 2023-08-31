@@ -1,3 +1,10 @@
+# Island flow chart
+
+```mermaid
+---
+title: "Island flow chart"
+---
+
 sequenceDiagram
   participant Artist
   participant Island(DAPPS)
