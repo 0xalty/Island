@@ -17,4 +17,4 @@ Organised by CCBT for ‚Future Ideations Camp Vol.2 setup():
 
 ## Idea
 ![island_ccbt](https://github.com/0xalty/Islands/assets/129202655/8b14ffa9-09b6-40ae-a3e7-3e512d8c7f31)
-Tell us what you guys thinking!
+**Tell us what you guys thinking. Let's create a market where we can all be truly P2P!**
