@@ -8,32 +8,7 @@ Is there a way construct a system that allows more flexibility and fluidity in t
 We believe that blockchain technology will re-define the order constructed within the current digital ecosystem. Islands: curation media + NFT marketplace is a platform where users can curate works according to their aesthetics and create “islands” themselves, ultimately resulting in the creation of a group of archipelagos. Each island becomes a reflection of the user’s own worldview where unique cultures can flourish. When each of these islands connect and interact, the works will flow with more fluidity and will stimulate a more active movement within the market as a whole.
 
 
-Island flow chart
-mermaid
----
-title: "Island flow chart"
----
-
-sequenceDiagram
-  participant Artist
-  participant Island(DAPPS)
-  participant Island contract
-  participant Curator
-  participant Buyer
-
-  Note over Artist, Island(DAPPS): 1. Mint Artwork (UX)
-  Artist ->> Island(DAPPS): Mint Artwork
-  Island(DAPPS) ->> Island contract: Register Artwork with Token ID
-
-  Note over Island contract: 3. Associate Token ID with Wallet Address
-  Island(DAPPS) ->> Island contract: Display Artworks (UI)
-
-  Note over Curator, Island(DAPPS): 5. Introduce Artwork (UX)
-  Curator ->> Island(DAPPS): Introduce Artwork
-  Island(DAPPS) ->> Island contract: Associate Token ID with Curator
-
-  Note over Buyer: 7. Purchase NFT (UX)
-  Buyer ->> Island contract: Purchase NFT
+## Island flow chart
 
 
 
