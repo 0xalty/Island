@@ -1,6 +1,6 @@
 # Islands　
 [![Solidity](https://custom-icon-badges.herokuapp.com/badge/Solidity-AA6746.svg?logo=Solidity&logoColor=white)]()
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20{0xalty})](https://github.com/{0xalty})
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%200xalty)](https://github.com/0xalty)
 
 
 We make a marketplace where everyone becomes a curator and curation becomes a work of art.
