@@ -1,6 +1,4 @@
 # Islands　
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-
 We make a marketplace where everyone becomes a curator and curation becomes a work of art.
 
 ### Issue
