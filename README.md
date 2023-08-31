@@ -11,6 +11,8 @@
 [![Solidity](https://custom-icon-badges.herokuapp.com/badge/Solidity-AA6746.svg?logo=Solidity&logoColor=white)]()
 ![GitHub User's stars](https://img.shields.io/github/stars/:user)
 ![GitHub watchers](https://img.shields.io/github/watchers/:user/:repo)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/:user/:repo/:branch)
+
 
 
 
