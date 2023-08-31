@@ -10,4 +10,8 @@ Island 2023
 at CCBT - Civic Creative Base Tokyo in Shibuya.
 Artists: Kumagai Akira, Takahashi Ryuta, Suzuki Yushin, Habu Kazuhito
 
-Organised by CCBT for ‚Future Ideations Camp Vol.2 setup()
+Organised by CCBT for ‚Future Ideations Camp Vol.2 setup():
+
+# Idea
+![island_ccbt](https://github.com/0xalty/Islands/assets/129202655/8b14ffa9-09b6-40ae-a3e7-3e512d8c7f31)
+Tell us what you guys thinking!
