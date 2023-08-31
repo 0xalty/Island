@@ -64,3 +64,8 @@ In a vast marketplace such as OpenSea where there are rows after rows of works b
 Is there a way construct a system that allows more flexibility and fluidity in the exposure of these works so that they have a better chance at entering the global market?
 
 We believe that blockchain technology will re-define the order constructed within the current digital ecosystem. Islands: curation media + NFT marketplace is a platform where users can curate works according to their aesthetics and create “islands” themselves, ultimately resulting in the creation of a group of archipelagos. Each island becomes a reflection of the user’s own worldview where unique cultures can flourish. When each of these islands connect and interact, the works will flow with more fluidity and will stimulate a more active movement within the market as a whole.
+
+[![Twitter URL][badge-url]][twitter]
+
+[badge-url]: https://img.shields.io/twitter/url?label=%40not75743&style=social&url=https%3A%2F%2Ftwitter.com%2Fnot75743
+[twitter]: https://twitter.com/not75743
