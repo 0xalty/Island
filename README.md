@@ -1,4 +1,5 @@
 # Islands　
+![SPM is supported](https://img.shields.io/badge/SPM-Supported-orange)
 We make a marketplace where everyone becomes a curator and curation becomes a work of art.
 
 ### Issue
