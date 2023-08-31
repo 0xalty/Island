@@ -9,7 +9,9 @@
 
 # Islands　
 [![Solidity](https://custom-icon-badges.herokuapp.com/badge/Solidity-AA6746.svg?logo=Solidity&logoColor=white)]()
-
+<a href="https://github.com/bkrem/awesome-solidity/graphs/contributors">
+      <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/bkrem/awesome-solidity">
+    </a>
 
 
 
