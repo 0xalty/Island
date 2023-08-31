@@ -1,6 +1,13 @@
+<!--
+*** Thanks for checking out the Island. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! 
+-->
+
 # Islands　
 [![Solidity](https://custom-icon-badges.herokuapp.com/badge/Solidity-AA6746.svg?logo=Solidity&logoColor=white)]()
-[![Contributors][contributors-shield]][contributors-url]
 
 
 We make a marketplace where everyone becomes a curator and curation becomes a work of art.
