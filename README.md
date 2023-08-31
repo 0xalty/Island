@@ -1,6 +1,5 @@
 # Islands　
 [![Solidity](https://custom-icon-badges.herokuapp.com/badge/Solidity-AA6746.svg?logo=Solidity&logoColor=white)]()
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%200xalty)](https://github.com/0xalty)
 
 
 We make a marketplace where everyone becomes a curator and curation becomes a work of art.
@@ -60,6 +59,7 @@ sequenceDiagram
 Island 2023
 at CCBT - Civic Creative Base Tokyo in Shibuya.
 Artists: Kumagai Akira, Takahashi Ryuta, Suzuki Yushin, Habu Kazuhito
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%200xalty)](https://github.com/0xalty)
 
 Organised by CCBT for ‚Future Ideations Camp Vol.2 setup():
 
