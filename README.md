@@ -6,7 +6,8 @@
 *** Thanks again! 
 -->
 <div id="top"></div>
-<img width="643" alt="スクリーンショット 2023-09-01 2 15 05" src="https://github.com/0xalty/Islands/assets/129202655/e7d70a6d-b9cd-4442-8063-3e41fec321e1">
+<img width="352" alt="スクリーンショット 2023-09-01 2 21 48" src="https://github.com/0xalty/Islands/assets/129202655/9dfcd1c1-b132-48fc-ad25-a4ddaf841c39">
+
 
 # Islands　
 [![Solidity](https://custom-icon-badges.herokuapp.com/badge/Solidity-AA6746.svg?logo=Solidity&logoColor=white)]()
