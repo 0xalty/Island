@@ -1,6 +1,18 @@
 # Islands
 We make a marketplace where everyone becomes a curator and curation becomes a work of art.
 
+### Issue
+OpenSea and other marketplaces simply list the price of the artwork, its transition, the number of sales, TVL, etc., and do not provide captions such as the artist's thoughts and feelings about the artwork.
+**They are limited to functioning as simple sales offices.**
+
+### Solution
+Consideration of high-lighting methods for artists and works that do not depend on name recognition.
+- Create a mechanism to visualize democratic evaluation that does not depend on name recognition.
+- Create a system that facilitates recognition of the taste and claims of the work.
+- To establish a motivation for collectors and curators to search for artists and artworks. Establish motivation for collectors and curators to search for artists and artworks.
+- Provide an opportunity to lead users from one work or one artist to other works or other artists. Provide an opportunity to lead users from one work or one artist to other works or other artists.
+
+
 ## Statement
 In a vast marketplace such as OpenSea where there are rows after rows of works belonging to mega-collectors, viewers may be discouraged from even browsing the pages to search for artworks, and lesser known artists with fewer assets tend to sink into the background.
 Is there a way construct a system that allows more flexibility and fluidity in the exposure of these works so that they have a better chance at entering the global market?
