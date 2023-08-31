@@ -1,4 +1,5 @@
 # Islands
+We make a marketplace where everyone becomes a curator and curation becomes a work of art.
 
 ## Statement
 In a vast marketplace such as OpenSea where there are rows after rows of works belonging to mega-collectors, viewers may be discouraged from even browsing the pages to search for artworks, and lesser known artists with fewer assets tend to sink into the background.
