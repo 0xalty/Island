@@ -9,7 +9,7 @@ import "@openzeppelin/contracts/utils/Address.sol";
 contract Island is ERC721 {
     string[] licenses = [ "mit", "cc" ];
     
-    address owner;
+    address private owner;
     using Counters for Counters.Counter;
     Counters.Counter private _tokenIds;
     uint NFTprice;
@@ -17,10 +17,10 @@ contract Island is ERC721 {
 
     using Strings for uint256;
 
-    mapping(uint256 => string) public tokenParameters;
-    mapping(uint256 => address) public artistsAddress;
-    mapping(uint256 => address[100]) public curatorsAddress;
-    mapping(uint256 => string) public NFTlisence;
+    mapping(uint256 => string) private tokenParameters;
+    mapping(uint256 => address) private artistsAddress;
+    mapping(uint256 => address[100]) private curatorsAddress;
+    mapping(uint256 => string) private NFTlisence;
 
     uint public curatorsAddressSize = 0;
 
@@ -45,7 +45,7 @@ contract Island is ERC721 {
         return tokenId;
     }
 
-    //2.Introduce NFT by curators
+    //2.Introduce NFT by curators <- creatorのこと？
     function introduceNFT(uint256 tokenId) public {
         require(_exists(tokenId));
         curatorsAddress[tokenId][curatorsAddressSize] = msg.sender;
