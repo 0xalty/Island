@@ -55,15 +55,6 @@ sequenceDiagram
 ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Idea
-![island_ccbt](https://github.com/0xalty/Islands/assets/129202655/8b14ffa9-09b6-40ae-a3e7-3e512d8c7f31)
-
-
-**Tell us what you guys thinking. Let's create a market where we can all be truly P2P!**
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 ## Exhibition
 ![PXL_20230830_093439896](https://github.com/0xalty/Island/assets/129202655/4d10f2bd-7bb3-4428-934f-6b7bc145f1ec)
 Island 2023
