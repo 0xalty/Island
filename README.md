@@ -6,10 +6,9 @@
 *** Thanks again! 
 -->
 <div id="top"></div>
-<img width="352" alt="スクリーンショット 2023-09-01 2 21 48" src="https://github.com/0xalty/Islands/assets/129202655/9dfcd1c1-b132-48fc-ad25-a4ddaf841c39">
 
 [![Solidity](https://custom-icon-badges.herokuapp.com/badge/Solidity-AA6746.svg?logo=Solidity&logoColor=white)]()
-# Islands　
+# Island　
 We make a marketplace where everyone becomes a curator and curation becomes a work of art.
 
 ### Issue
